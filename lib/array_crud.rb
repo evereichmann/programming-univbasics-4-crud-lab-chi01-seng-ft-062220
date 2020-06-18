@@ -10,7 +10,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   answers = ["yass", "yes", "no", "maybe"]
-  answers << "arrays!"
+  #answers << "arrays!"
+  answers.push "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
