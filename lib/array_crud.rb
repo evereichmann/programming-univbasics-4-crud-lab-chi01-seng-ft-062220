@@ -1,6 +1,7 @@
 def create_an_empty_array
   #[]
-  new_array= Array.new
+  #new_array= Array.new
+  another_way = []
 end
 
 def create_an_array
